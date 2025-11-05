@@ -8,7 +8,7 @@ import hashlib
 import os
 import urllib.request
 
-DEFAULT_URL = "https://raw.githubusercontent.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity/refs/heads/master/Chapter03/datasets/sms%20spam%20no%20header.csv"
+DEFAULT_URL = "https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity/blob/master/Chapter03/datasets/sms_spam_no_header.csv"
 OUT_DIR = "data/raw"
 OUT_NAME = "sms_spam_no_header.csv"
 
